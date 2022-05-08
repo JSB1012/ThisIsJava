@@ -1,4 +1,4 @@
-package practicechpater4;
+package practicechapter4;
 
 public class Excercise03 {
 
