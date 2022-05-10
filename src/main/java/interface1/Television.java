@@ -1,6 +1,6 @@
 package interface1;
 
-public abstract class Television implements RemoteControl4 {
+public class Television implements RemoteControl4 {
 
 	// 필드
 	private int volume;
