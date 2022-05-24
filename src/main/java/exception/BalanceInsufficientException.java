@@ -1,6 +1,6 @@
 package exception;
 
-public class BalanceInsufficientException {
+public class BalanceInsufficientException extends Exception{
 	
 	public BalanceInsufficientException() {}
 	public BalanceInsufficientException(String message) {
